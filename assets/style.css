@@ -1,0 +1,144 @@
+.container {
+
+  max-width:100%;
+
+
+margin:left;
+}
+body {
+
+  background-color: darkgrey;
+background-size: 100%;
+  background-image: url("images/hobby.png");
+
+  /* background-repeat: no-repeat; */
+  }
+
+header {
+
+  text-align:center;
+
+font-size:400%;
+
+font-family:'Rye', cursive;
+
+ background-color:gray;
+
+ padding:3px;
+
+  margin-left:75px; 
+
+  margin-right:75px;
+
+   margin-bottom:75px;
+
+    color:black;
+
+    opacity: 0.9;
+
+    
+    }
+
+#leftside {
+
+  float:left; 
+
+font-family:'Rye', cursive;
+
+color:white;
+
+margin-left:6%;
+
+font-size:35px;
+
+width: 25%;
+
+opacity: 0.9;
+
+background-color: gray;
+
+}
+
+#rightside {
+
+    color:white;
+
+    float:right;
+
+    font-family:'Rye', cursive;
+
+    margin-right:-1%;
+
+    font-size:35px; 
+
+    background-color:gray;
+
+    opacity: 0.9;
+
+    width: 25%;
+}
+
+footer {
+
+   text-align:center;
+
+   font-size:200%;
+
+   font-family:'Rye', cursive;
+   background-color:gray;
+
+   padding:20px;
+
+   margin-left:80px;
+
+   margin-right:-20px;
+
+   margin-top:0px;
+
+   color:white;
+
+   opacity: 0.9;
+
+}
+
+#soccer {
+
+  text-align:center;
+
+  margin-right: 6%;
+
+  opacity: 0.8;
+
+}
+
+#ducks {
+
+  text-align:bottom;
+
+
+}
+#one {
+  margin-left: 600px;
+}
+#two {
+  margin-left: 700px;
+}
+.sidebar {
+  float: right;
+  width: 100%;
+  max-width: 270px;
+  /* padding: 30px; */
+  margin-bottom: -90px;
+  /* background-color: red; */
+  /* border: 1px solid #ddd; */
+  margin-top: -600px; 
+  opacity:0.9;
+  margin-right: 800px
+
+}
+#connect{
+  float: center;
+  margin-top: -215px;
+  margin-right: 800px;
+  background-color: red;
+}
